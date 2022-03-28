@@ -9,8 +9,9 @@
 [![lines of code](https://tokei.rs/b1/gitlab/veloren/veloren)](https://tokei.rs/b1/gitlab/veloren/veloren)
 [![contributor count](https://img.shields.io/github/contributors/veloren/veloren)](https://gitlab.com/veloren/veloren/-/graphs/master)
 
-## Welcome To Veloren!
+## Welcome To Finalverse!
 
+Finalverse is a next generation blockchain based metaverse ecosystem, adapting from Veloren. 
 Veloren is a multiplayer voxel RPG written in Rust. Veloren takes inspiration from games such as Cube World, Minecraft and Dwarf Fortress. The game is currently under heavy development, but is playable.
 
 ## Development
